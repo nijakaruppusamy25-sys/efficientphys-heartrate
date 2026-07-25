@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local artifacts
+checkpoints/
+outputs/
+*.log
+
+# OS files
+.DS_Store
